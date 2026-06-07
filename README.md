@@ -22,7 +22,7 @@ Not: Botun düzgün çalışması için harita isimlerinin kod içerisinde tanı
 ### Sürümler
 
 Tüm sürümlere buradan ulaşabilirsiniz:  
-https://github.com/jagged-11/Haxball-v6-Real-Soccer./releases/tag/v2.0.0
+https://github.com/volkdmm/Haxball-V6-Otopower-Ready-Script/releases
 
 ### Hakkında
 
@@ -56,7 +56,7 @@ Note: For the bot to work correctly, make sure that the map names exactly match 
 ### Releases
 
 You can access all versions here:  
-https://github.com/jagged-11/Haxball-v6-Real-Soccer./releases/tag/v2.0.0
+https://github.com/volkdmm/Haxball-V6-Otopower-Ready-Script/releases
 
 ### About
 
